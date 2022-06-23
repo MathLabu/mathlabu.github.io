@@ -1,0 +1,48 @@
+- title: Associate Professor, <br>Université Clermont Auvergne, Institut Pascal, France
+  from: Sept. 2022
+  to: present
+  description: <b>Teaching:</b> IUT Clermont Auvergne, in the Industrial Engineering and Maintenance department (GIM),<br>
+               <b>Research:</b> Institut Pascal, in the Computer Vision team of the ISPR department.
+
+- title: Computer Vision Research Engineer, <br>Université Clermont Auvergne, Institut Pascal, France
+  from: Jun. 2022
+  to: Sept. 2022
+  description: <b>Research:</b> Institut Pascal, in the Computer Vision team of the ISPR department.
+               
+- title: Temporary Lecturer and Research Assistant (ATER), <br>Université Clermont Auvergne, Institut Pascal, France
+  from: Jan. 2022
+  to: Jun. 2022
+  description: <b>Teaching:</b> École Universitaire de Physique et d'Ingénierie (EUPI)<br>
+               <b>Research:</b> Institut Pascal, in the Computer Vision team of the ISPR department.
+
+- title: Ph.D in Computer Vision and Robotics, <br>Université Clermont Auvergne, Institut Pascal, France
+  from: Sept. 2018
+  to: Dec. 2021
+  description: <b>Supervisors:</b> Céline Teulière (UCA), Frédéric Bernardin (Cerema), and Omar Ait-Aider (UCA)<br>
+               <b>Title:</b> Leveraging blur information with a plenoptic camera
+
+- title: Master Perception Artificielle et Robotique, <br>Université Clermont Auvergne, France
+  from: Sept. 2017
+  to: Sept. 2018
+  description: Master’s Degree in Computer Vision and Robotics.<br>
+               Carried out in conjunction with Master’s Degree in Engineering at ISIMA.
+               
+               
+- title: Research Internship, <br>Northern Robotics Laboratory (<a href="https://norlab.ulaval.ca/">Norlab</a>), Canada
+  from: Mar. 2018
+  to: Sep.. 2018
+  description: <b>Supervisor:</b> François Pomerleau<br>
+               <b>Title:</b> 3D Map Compression based on Differential Geometry<br>
+               <b>Keywords:</b> ICP, Lidar, Robotics, Localization, 3D Mapping, Differential Geometry
+
+- title: Diplôme d'Ingénieur, <br>Institut Supérieur d'Informatique, de Modélisation et de leurs Applications (<a href="https://www.isima.fr/accueil-english/">ISIMA</a>), France
+  from: Sept. 2013
+  to: Sept. 2018
+  description: College of Engineering in Computer Science, Modeling and Applications delivering a diploma equivalent to a Master’s Degree in Engineering, specialized in Embedded Systems.
+  
+- title: Research Internship, <br>CEA List, Nano Innov, Palaiseau, France
+  from: Mar. 2017
+  to: Sep.. 2017
+  description: <b>Supervisors:</b> Mathieu Carrier et Vincent Gay-Bellile<br>
+               <b>Title:</b> Development of a Visual SLAM to localize a drone<br>
+               <b>Keywords:</b> SLAM, Image Processing, 3D Vision, Visual Odometry, Detector, Descriptor, Vocabulary Tree
