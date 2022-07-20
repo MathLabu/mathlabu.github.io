@@ -11,7 +11,7 @@ type: article
 project: plenoptic
 idbib: Labussiere2022calib
 codesource: https://github.com/comsee-research/libpleno
-dataset: https://github.com/comsee-research/plenoptic-dataset
+dataset: https://github.com/comsee-research/plenoptic-datasets
 file: https://doi.org/10.1007/s11263-022-01582-z
 collection: publications
 permalink: /publication/2022-05-04-journ-ijcv

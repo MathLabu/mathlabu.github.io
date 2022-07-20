@@ -10,7 +10,7 @@ type: preprint
 project: plenoptic
 idbib: Labussiere2022depth
 codesource: https://github.com/comsee-research/blade
-dataset: https://github.com/comsee-research/plenoptic-dataset
+dataset: https://github.com/comsee-research/plenoptic-datasets
 collection: publications
 permalink: /publication/2022-journ-blade
 date: 2022-06-01
