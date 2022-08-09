@@ -6,15 +6,16 @@ author_profile: true
 redirect_from:
   - /posts/
   - /wordpress/blog-posts/
+  - /project/
 ---
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
+  {% capture project_groupe %}{{ post.project_groupe }}{% endcapture %}
+  {% if project_groupe != written_project_groupe %}
+    <h2 id="{{ project_groupe | slugify }}" class="archive__subtitle">{{ project_groupe }}</h2>
+    {% capture written_project_groupe %}{{ project_groupe }}{% endcapture %}
+  {% endif %}  
   {% include archive-single.html %}
 {% endfor %}
