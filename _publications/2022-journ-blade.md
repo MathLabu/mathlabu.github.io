@@ -2,7 +2,7 @@
 layout: publication
 title: Blur aware depth estimation with a plenoptic camera
 authors: M. Labussière, C. Teulière, F. Bernardin, and O. Ait-Aider
-publication: submitted, revised and under review
+publication: preprint
 year: 2022
 image: True
 slides: True

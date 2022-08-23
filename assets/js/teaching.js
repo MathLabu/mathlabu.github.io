@@ -40,7 +40,7 @@ window.onload = function() {
     data: {
       labels: [csn_t, cyb_t, rob_t, ros_t],
       datasets: [{
-        label: "2020-2021",
+        label: "2019-2020",
         backgroundColor: [csn, cyb, rob, ros],
         data: [20, 14, 10, 20]
       }]
@@ -49,7 +49,7 @@ window.onload = function() {
       title: {
         display: true,
         fontSize: 15,
-        text: '2020-2021'
+        text: '2019-2020'
       }
     }
   });
@@ -61,7 +61,7 @@ window.onload = function() {
     data: {
       labels: [csn_t, cyb_t, rob_t, ros_t],
       datasets: [{
-        label: "2021-2022",
+        label: "2020-2021",
         backgroundColor: [csn, cyb, rob, ros],
         data: [20, 10, 10, 20]
       }]
@@ -70,7 +70,7 @@ window.onload = function() {
       title: {
         display: true,
         fontSize: 15,
-        text: '2021-2022'
+        text: '2020-2021'
       }
     }
   });

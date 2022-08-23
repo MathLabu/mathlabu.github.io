@@ -255,6 +255,8 @@ License v3.0. It includes:
     
 * `blade`: a set of tools to estimate depth map from raw images obtained by (multi-focus) plenoptic cameras\
     Available on <i class="fab fa-github"></i> <https://github.com/comsee-research/blade>
+    
+* ...
 
 
 <br/>
@@ -263,5 +265,16 @@ _______________________________
 
 # Datasets
 
+All my datasets have been made publicly available on the lab’s
+GitHub page, <https://github.com/comsee-research>, for reproducibility
+and broad accessibility, and licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. It includes:
 
+* `plenoptic-datasets`: severals plenoptic camera datasets for calibration and depth estimation\
+    Available on <i class="fab fa-github"></i> <https://github.com/comsee-research/libpleno>
+    
+* ...
+
+<br/>
+
+> See the [Projects](/projects) for more details on Softwares and Datasets!
 
