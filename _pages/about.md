@@ -11,8 +11,7 @@ redirect_from:
 
 Hi! I am **{{ site.name }}** &#128075;,
 
-I am currently working as a Research Engineer in Computer Vision at Institut Pascal.
-I'll start working in September as an Associate Professor at Université Clermont Auvergne, France:
+I am currently working as an Associate Professor at Université Clermont Auvergne, France:
 * **Teaching activities** at [IUT Clermont Auvergne](https://iut.uca.fr/), in the Industrial Engineering and Maintenance department (GIM), 
 * **Research activities** at [Institut Pascal](http://www.institutpascal.uca.fr/index.php/en/), in the Computer Vision research team of the Image, Systems of Perception and Robotics ([ISPR](https://ispr-ip.fr/)) department. 
 
