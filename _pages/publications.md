@@ -223,7 +223,9 @@ _______________________________
     <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
     {% if talk.online %}<b>(online)&nbsp;</b>{% endif %}
     {{talk.location}}&nbsp;{% if talk.video or talk.file %}-&nbsp;{% endif %}
-    
+    {% if talk.url %}
+    <i class="fas fa-link"></i> <a href="{{pub.url}}">Link</a>&nbsp;&nbsp;
+    {% endif %}
     {% if talk.video %}
     <i class="fas fa-video"></i> <a href="{{ talk.video }}">Spotlight</a>&nbsp;&nbsp;
     {% endif %}
